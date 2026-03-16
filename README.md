@@ -1,21 +1,22 @@
-# ✨ MAE — Animasyonlu Web Sitesi
+# ✨ MAE Creative Intelligence Studio
 
-> 🚧 **Yapım Aşamasında** — GSAP ScrollTrigger ile tam animasyonlu kurumsal site
+> Lüks minimalist kurumsal site — Custom animasyonlar & scroll-driven deneyim
 
-## ⏳ Durum
-Bu proje aktif olarak geliştirilmektedir.
+## 🌐 Demo
+**[Canlı Demo](https://mae.com.tr/mae_new_animation/)**
 
-## 🎯 Planlanan Özellikler
-- GSAP ScrollTrigger ile tam sayfa animasyonları
-- Paralaks efektler ve smooth scroll
-- İnteraktif bölüm geçişleri
-- 3D elementler ve mikro-animasyonlar
-- Dark/Light mode desteği
+## ✨ Özellikler
+- Custom cursor halo efekti (mouse tracking)
+- Intersection Observer ile scroll-triggered reveal animasyonları
+- Canvas element ile özel animasyonlar
+- SVG nefes (breathing) efekti
+- Scroll-driven paralaks ve timeline dolum efekti
+- Before/After testimonial carousel
+- Modal gate ile portfolyo erişimi
+- Responsive tasarım (480px, 600px, 768px, 1024px breakpoints)
 
 ## 🛠️ Teknolojiler
-`GSAP` `ScrollTrigger` `JavaScript` `CSS3` `Responsive`
+`Vanilla JavaScript` `Canvas API` `Intersection Observer` `SVG Animations` `CSS3` `Responsive`
 
 ---
 *Buğra Yetiş — MAE Reklam Ajansı · İstanbul*
-
-> 🔜 Yakında yayında\!
